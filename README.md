@@ -27,8 +27,8 @@ React + Redux Toolkit/slice
   2 yarn go
 
 ##Приложение Chart
-Оно отображает график на основе полученныйх с сервера 
-данных.   
+Оно отображает график на основе полученныйх с сервера данных.  
+React + Chart.js
 ![Первый экран](https://github.com/narf200/ChartViews/blob/main/src/images/screenshot%201.png?raw=true)
 
 Пример кода [Chart](https://github.com/narf200/ChartViews) 

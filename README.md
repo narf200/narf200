@@ -14,7 +14,7 @@
 ## Мои проекты 
 
 ## Приложение по игре Скайрим. 
-В нём можно пройти опрос и унайт какой ты Каджит)  
+В нём можно пройти опрос и узнайть какой ты Каджит)  
 React + Redux Toolkit/slice
 
 ![Первый экран](https://github.com/narf200/interview/blob/main/src/assets/images/screenshot%201.png?raw=true "Первый экран")

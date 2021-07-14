@@ -26,6 +26,14 @@ React + Redux Toolkit/slice
   1 yarn start  
   2 yarn go
 
+## Приложение Доска объявлений.
+В карточках отображена информация из api.  
+React + Material UI  
+
+![Первый экран](https://github.com/narf200/advertisement-board/blob/master/src/img/img%201.png?raw=true "Первый экран")
+Пример кода [Доска объявлений](https://github.com/narf200/advertisement-board)  
+Для запуска можно перейти по ссылке [Chart](http://narf200.github.io/advertisement-board)
+
 ## Приложение Chart
 Оно отображает график на основе полученныйх с сервера данных.  
 React + Chart.js

@@ -1,46 +1,45 @@
-# Привет 👋
-## Меня зовут Носков Денис.
-## Я frontend разработчик.
-![Я Junior frontend разработчик.](https://github.com/raghavk16/raghavk16/raw/master/coderman.gif)
+# Hi 👋
+## My name is Denis Noskov.
+## I am a frontend developer.
+![I am a frontend developer.](https://github.com/raghavk16/raghavk16/raw/master/coderman.gif)
 
-- Я люблю фронтенд разработку, пишу на React + Redux.
-- Больше мне нравятся функцианальные компоненты и хуки, но могу и на 
-  классовых.  
-- Люблю интересные задачи после которых можно увидеть результат.
-- В свободное время придумываю всякие штуки на микроконтроллере IskraJS.
-- Нравится писать ботов в telegram.
+- I love frontend development, I write on React + Redux.  
+- I like interesting tasks after which you can see the result.
+- In my free time I come up with all sorts of things on the IskraJS microcontroller.
+- Learning to draw in procreate.
+- I like to write bots in telegram.
 
 
-## Мои проекты 
+## My Projects 
 
-## Приложение по игре Скайрим. 
-В нём можно пройти опрос и узнайть какой ты Каджит)  
+## Application for the game Skyrim. 
+In it you can take a survey and find out what kind of Kajit you are)  
 React + Redux Toolkit/slice
 
-![Первый экран](https://github.com/narf200/interview/blob/main/src/assets/images/screenshot%201.png?raw=true "Первый экран")
-![Второй экран](https://github.com/narf200/interview/blob/main/src/assets/images/screenshot%202.png?raw=true "Второй экран")
-![Третий экран](https://github.com/narf200/interview/blob/main/src/assets/images/screenshot%203.png?raw=true "Третий экран")
+![First screen](https://github.com/narf200/interview/blob/main/src/assets/images/screenshot%201.png?raw=true "Первый экран")
+![Second screen](https://github.com/narf200/interview/blob/main/src/assets/images/screenshot%202.png?raw=true "Второй экран")
+![Third screen](https://github.com/narf200/interview/blob/main/src/assets/images/screenshot%203.png?raw=true "Третий экран")
 
-Пример кода [Узнай какой ты Каджит](https://github.com/narf200/interview)
-- Что-бы запустить нужно ввести 2 команды  
+Code example [Find out what kind of Kajit you are](https://github.com/narf200/interview)
+- To run it, you need to enter 2 commands  
   1 yarn start  
   2 yarn go
 
-## Приложение Доска объявлений.
-В карточках отображена информация из api.  
+## The Bulletin Board application.
+The cards display information from the api.  
 React + Material UI  
 
-![Первый экран](https://github.com/narf200/advertisement-board/blob/master/src/img/img%201.png?raw=true "Первый экран")
-Пример кода [Доска объявлений](https://github.com/narf200/advertisement-board)  
-Для запуска можно перейти по ссылке [Chart](http://narf200.github.io/advertisement-board)
+![First screen](https://github.com/narf200/advertisement-board/blob/master/src/img/img%201.png?raw=true "Первый экран")
+Code example [Bulletin Board](https://github.com/narf200/advertisement-board)  
+To start, you can follow the link [Bulletin Board](http://narf200.github.io/advertisement-board)
 
-## Приложение Chart
-Оно отображает график на основе полученныйх с сервера данных.  
+## Application Chart
+It displays a graph based on the data received from the server.  
 React + Chart.js
-![Первый экран](https://github.com/narf200/ChartViews/blob/main/src/images/screenshot%201.png?raw=true)
+![First screen](https://github.com/narf200/ChartViews/blob/main/src/images/screenshot%201.png?raw=true)
 
-Пример кода [Chart](https://github.com/narf200/ChartViews) 
-Для запуска можно перейти по ссылке [Chart](https://chartnarf200.netlify.app/)
+Code example [Chart](https://github.com/narf200/ChartViews) 
+To start, you can follow the link [Chart](https://chartnarf200.netlify.app/)
 ## Skills: REACT/REDUX /JS / HTML / CSS / GIT
 
 <div display:flex>

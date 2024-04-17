@@ -49,18 +49,6 @@ To start, you can follow the link [Chart](https://chartnarf200.netlify.app/)
 <img align='left' alt='Docker' width='30px' src="https://icons8.com/icon/24000/docker"/>
 </div>
 
-## Skills: REACT/REDUX /JS / HTML / CSS / GIT
-
-<div display:flex>
-<img align='left' alt='React' width='30px' src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align='left' alt='Java-Script' width='30px' src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align='left' alt='HTML-5' width='30px' src="https://img.icons8.com/color/64/000000/html-5.png"/>
-<img align='left' alt='CSS' width='30px' src="https://img.icons8.com/nolan/64/css-filetype.png"/>
-<img align='left' alt='GIT' width='30px' src="https://img.icons8.com/color/48/000000/git.png"/>
-</div>
-
-
-
 
 <!--
 **narf200/narf200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

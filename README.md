@@ -1,16 +1,17 @@
 # Hi 👋
 ## My name is Denis Noskov.
-## I am a frontend developer.
-![I am a frontend developer.](https://github.com/raghavk16/raghavk16/raw/master/coderman.gif)
+## I am a DevOps engineer.
+![I am a DevOps engineer.](https://github.com/raghavk16/raghavk16/raw/master/coderman.gif)
 
-- I love frontend development, I write on React + Redux.  
+- I love working with the terminal. I like to set up servers and automate processes.  
 - I like interesting tasks after which you can see the result.
 - In my free time I come up with all sorts of things on the IskraJS microcontroller.
 - Learning to draw in procreate.
 - I like to write bots in telegram.
 
+## My Devops Projects 
 
-## My Projects 
+## My Fronted Projects 
 
 ## Application for the game Skyrim. 
 In it you can take a survey and find out what kind of Kajit you are)  
@@ -57,13 +58,4 @@ To start, you can follow the link [Chart](https://chartnarf200.netlify.app/)
 **narf200/narf200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

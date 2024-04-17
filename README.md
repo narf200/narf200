@@ -41,6 +41,14 @@ React + Chart.js
 
 Code example [Chart](https://github.com/narf200/ChartViews) 
 To start, you can follow the link [Chart](https://chartnarf200.netlify.app/)
+
+## DevOps skils Linux/Kubernetes/Docker
+<div display:flex>
+<img align='left' alt='Linux' width='30px' src="https://icons8.com/icon/892/linux"/>
+<img align='left' alt='Kubernetes' width='30px' src="https://icons8.com/icon/vgVcFHeBHXNm/kubernetes"/>
+<img align='left' alt='Docker' width='30px' src="https://icons8.com/icon/24000/docker"/>
+</div>
+
 ## Skills: REACT/REDUX /JS / HTML / CSS / GIT
 
 <div display:flex>

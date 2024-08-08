@@ -1,15 +1,14 @@
 # Hi 👋
 ## My name is Denis Noskov.
-## I am a DevOps engineer.
-![I am a DevOps engineer.](https://github.com/raghavk16/raghavk16/raw/master/coderman.gif)
+## I am a QA engineer.
+![I am a QA engineer.](https://github.com/raghavk16/raghavk16/raw/master/coderman.gif)
 
 - I love working with the terminal. I like to set up servers and automate processes.  
 - I like interesting tasks after which you can see the result.
 - In my free time I come up with all sorts of things on the IskraJS microcontroller.
 - Learning to draw in procreate.
 - I like to write bots in telegram.
-
-## My Devops Projects 
+ 
 
 ## My Fronted Projects 
 
